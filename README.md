@@ -1,1 +1,1 @@
-# FOIA_social_network_analysis_prototype
+# Coming soon: my code for a prototype social network created from City of Chicago FOIA requests using Neo4J.
