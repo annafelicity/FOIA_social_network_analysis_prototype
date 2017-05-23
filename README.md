@@ -18,11 +18,11 @@ Some things of note before I jump to a video I made exploring the network visual
 
 Okay, so for a glimpse into what the visualizations look like you can watch this short screengrab video I made explaining what's going on (sorry for my computer fan periodically running loudly in the background...my poor computer is old and gets taxed easily).
 
-[![YouTube Screenshot](/Images/YouTubeVideoScreencap)](https://youtu.be/0429f9pyw9I "Click to Watch!")
+[![YouTube Screenshot](/Images/YouTubeVideoScreencap.png)](https://youtu.be/0429f9pyw9I "Click to Watch!")
 
 And for those without the time to watch the video, here are a few screencaps.
-![SS1](/images/ScreenShot1)
-![SS1](/images/ScreenShot2)
-![SS1](/images/ScreenShot3)
-![SS1](/images/ScreenShot4)
-![SS1](/images/ScreenShot5)
+![SS1](/images/ScreenShot1.png)
+![SS1](/images/ScreenShot2.png)
+![SS1](/images/ScreenShot3.png)
+![SS1](/images/ScreenShot4.png)
+![SS1](/images/ScreenShot5.png)
