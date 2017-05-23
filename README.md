@@ -21,8 +21,8 @@ Okay, so for a glimpse into what the visualizations look like you can watch this
 [![YouTube Screenshot](/Images/YouTubeVideoScreencap.png)](https://youtu.be/0429f9pyw9I "Click to Watch!")
 
 And for those without the time to watch the video, here are a few screencaps.
-![SS1](/images/ScreenShot1.png)
-![SS1](/images/ScreenShot2.png)
-![SS1](/images/ScreenShot3.png)
-![SS1](/images/ScreenShot4.png)
-![SS1](/images/ScreenShot5.png)
+![SS1](/Images/ScreenShot1.png)
+![SS1](/Images/ScreenShot2.png)
+![SS1](/Images/ScreenShot3.png)
+![SS1](/Images/ScreenShot4.png)
+![SS1](/Images/ScreenShot5.png)
