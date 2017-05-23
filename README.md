@@ -16,9 +16,13 @@ Some things of note before I jump to a video I made exploring the network visual
 
 5) Right now, because I have not had a chance to pull all the FOIAed subjects' names out of the spreadsheet the visualizations are very reporter-centric and tell more of a story of which reporters are really diligent investigators rather than trends in who is being investigated. However, I hope that when I have a chance to input more of the politicians by extracting their names from the spreadsheet, the focus will be more on some of them. A fun experiment at the very least!
 
-Okay, so for a glimpse into what the visualizations look like you can watch this short screengrab video I made explaining what's going on (sorry for my computer fan periodically running in the background...my poor computer is old and gets taxed easily).
+Okay, so for a glimpse into what the visualizations look like you can watch this short screengrab video I made explaining what's going on (sorry for my computer fan periodically running loudly in the background...my poor computer is old and gets taxed easily).
 
-<div style="position:relative;height:0;padding-bottom:75.0%"><iframe src="https://www.youtube.com/embed/0429f9pyw9I?ecver=2" width="480" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
+[![YouTube Screenshot](/Images/YouTubeVideoScreencap)](https://youtu.be/0429f9pyw9I "Click to Watch!")
 
-And for those without the patience to watch the video, here are a few screencaps.
-
+And for those without the time to watch the video, here are a few screencaps.
+![SS1](/images/ScreenShot1)
+![SS1](/images/ScreenShot2)
+![SS1](/images/ScreenShot3)
+![SS1](/images/ScreenShot4)
+![SS1](/images/ScreenShot5)
